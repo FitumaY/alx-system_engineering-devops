@@ -1,0 +1,2 @@
+#!/bin/bash
+the script that add chown to the grp and others is 'chown /hello'
